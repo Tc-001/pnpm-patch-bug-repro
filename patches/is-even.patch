@@ -1,0 +1,13 @@
+diff --git a/package.json b/package.json
+index ababfec13a815575c4f91d8954a40c5d6c45d065..01dcfe87c9def8cfa2be84434bc0d0a7f1688b79 100644
+--- a/package.json
++++ b/package.json
+@@ -20,7 +20,7 @@
+     "test": "mocha"
+   },
+   "dependencies": {
+-    "is-odd": "^0.1.2"
++    "is-odd": "3.0.1"
+   },
+   "devDependencies": {
+     "gulp-format-md": "^0.1.12",
